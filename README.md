@@ -1,4 +1,7 @@
-﻿# µHttpSharp
+﻿## Note
+This is a fork of the original repo. It's been converted to .NET core.
+
+# µHttpSharp
 
 A very lightweight & simple embedded http server for c# 
 
